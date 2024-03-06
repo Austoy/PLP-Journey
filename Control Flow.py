@@ -16,7 +16,7 @@ def checkVowel(n):
   case 'i': return "Vowel alphabet" 
   case 'o': return "Vowel alphabet" 
   case 'u': return "Vowel alphabet" 	
-  case _: return "Simple alphabet" 	
+  case _: return "Simple alphabet"  	
 
 print(checkVowel('a')) 
 
